@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @enceladus69X5
+- 👋 Hi, I’m @enceladus69x5
 - 👀 I’m interested in open source, security, cryptography, physics, space, life science, etc. Basically anything about anything.
 - 📫 How to reach me: 
   - matrix: @enceladus69x5:matrix.org
-  - twitter: @enceladus69X5
+  - twitter: @enceladus69x5
 
 
 
